@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\what-runs-all-day-but-has-no-legs-Vhuerta24\\what_runs_all_day_but_has_no_legs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB1BDC0-B311-4B31-935F-925707AE07AF}|what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.vcxproj|C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\what-runs-all-day-but-has-no-legs-Vhuerta24\\what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AB1BDC0-B311-4B31-935F-925707AE07AF}|what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.vcxproj|solutionrelative:what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "what_runs_all_day_but_has_no_legs.cpp",
+              "DocumentMoniker": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\what-runs-all-day-but-has-no-legs-Vhuerta24\\what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.cpp",
+              "RelativeDocumentMoniker": "what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.cpp",
+              "ToolTip": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\what-runs-all-day-but-has-no-legs-Vhuerta24\\what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.cpp",
+              "RelativeToolTip": "what_runs_all_day_but_has_no_legs\\what_runs_all_day_but_has_no_legs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T05:36:49.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
